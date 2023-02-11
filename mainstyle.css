@@ -1,0 +1,45 @@
+#header{
+   background-color: #4E4C4E;
+   color: white;
+   height: 100px;
+   text-align: center;
+   margin: 0;
+   padding: 60px 50px 10px;
+
+}
+
+#body {
+   background: url("background.jpg") center fixed;
+   height: 500px;
+   background-repeat: no-repeat;
+   background-size: cover;
+   margin: 0;
+   padding: 100px;
+
+}
+
+#cadastro {
+   text-align: center;
+   color: white;
+   background-color: #2A58AB;
+   width: 210px;
+   height: 300px;
+   margin: 50px 200px 100px 400px;
+   padding: 50px;
+
+}
+
+#footer {
+   background-color: #4E4C4E;
+   color: white;
+   height: 100px;
+   text-align: center;
+   margin: 0;
+   padding: 60px 50px 10px;
+
+}
+
+.container{
+   width: 1340px;
+   margin: auto;
+}
